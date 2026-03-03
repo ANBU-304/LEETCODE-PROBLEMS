@@ -3,32 +3,26 @@ import java.util.*;
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
         
-        Arrays.sort(nums1);
-        Arrays.sort(nums2);
+        HashSet<Integer> set1 = new HashSet<>();
+        HashSet<Integer> resultSet = new HashSet<>();
         
-        int i = 0, j = 0;
-        HashSet<Integer> set = new HashSet<>();
+     
+        for(int num : nums1) {
+            set1.add(num);
+        }
         
-        while(i < nums1.length && j < nums2.length) {
-            
-            if(nums1[i] == nums2[j]) {
-                set.add(nums1[i]);   
-                i++;
-                j++;
-            }
-            else if(nums1[i] < nums2[j]) {
-                i++;
-            }
-            else {
-                j++;
+ 
+        for(int num : nums2) {
+            if(set1.contains(num)) {
+                resultSet.add(num);
             }
         }
         
-  
-        int[] result = new int[set.size()];
+    
+        int[] result = new int[resultSet.size()];
         int index = 0;
         
-        for(int num : set) {
+        for(int num : resultSet) {
             result[index++] = num;
         }
         
