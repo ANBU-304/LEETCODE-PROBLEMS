@@ -1,14 +1,9 @@
 class Solution {
     public String toLowerCase(String s) {
-    String str="";
-    for(char c:s.toCharArray()){
-        if(c>='A' && c<='Z'){
-            str+=(char)(c+32);
+        var chars = s.toCharArray();
+        for(int i = 0; i < chars.length; i++) {
+            chars[i] = Character.toLowerCase(chars[i]);
         }
-        else{
-            str+=c;
-        }
-    }
-    return str; 
+        return new String(chars);
     }
 }
