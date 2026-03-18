@@ -5,8 +5,7 @@ public class Solution {
 
         for(int i=31;i>=0;i--)
         {
-               int temp= num & 1;
-               if(temp == 1) ans += 1<<i;
+               if((num & 1) == 1) ans += 1<<i;
                num = num>>1;
         }       
         return ans;
