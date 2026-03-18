@@ -1,20 +1,26 @@
 class Solution {
     public boolean buddyStrings(String s, String goal) {
+       // List<Integer> a = new ArrayList<>();
+       if(s.length()!=goal.length())
+       return false;
 
-        if (s.length() != goal.length())
-            return false;
+       int k=0;
+       int []a = new int[2];
+        for(int i=0;i<s.length();i++)
+        {
+            if(s.charAt(i)!=goal.charAt(i))
+            {
+               // a.add(i);
 
-        int k = 0;
-        int[] a = new int[2];
-
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) != goal.charAt(i)) {
-
-                if (k == 2) 
-                    return false;
-
-                a[k] = i;
+                //if(a.size()==2)
+                 if(k==2)
+                return false;
+                //break;
+                a[k]=i;
                 k++;
+
+               
+                
             }
         }
 
@@ -27,20 +33,26 @@ class Solution {
             }
             return false;
         }
+        
 
-        if (k != 2) return false;
+
+        
 
         char[] arr = s.toCharArray();
-
         char temp = arr[a[0]];
-        arr[a[0]] = arr[a[1]];
-        arr[a[1]] = temp;
+      arr[a[0]] = arr[a[1]];
+      arr[a[1]] = temp;
 
-        for (int i = 0; i < s.length(); i++) {
-            if (arr[i] != goal.charAt(i)) {
-                return false;
-            }
+    
+
+      for(int i=0;i<s.length();i++)
+      {
+        if(arr[i]!=goal.charAt(i))
+        {
+              return false;
         }
+      
+      }
 
         return true;
     }
