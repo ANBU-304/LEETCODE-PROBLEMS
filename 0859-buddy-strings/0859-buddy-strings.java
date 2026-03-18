@@ -10,7 +10,7 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) != goal.charAt(i)) {
 
-                if (k == 2) // ✅ FIX HERE
+                if (k == 2) 
                     return false;
 
                 a[k] = i;
