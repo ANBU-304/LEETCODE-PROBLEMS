@@ -5,7 +5,7 @@ class Solution {
         int sum = 0;
 
         for (int w : weights) {
-            low = Math.max(low, w); // ✅ max element
+            low = Math.max(low, w); 
             sum += w;
         }
 
@@ -28,7 +28,7 @@ class Solution {
         int d = 1;
 
         for (int num : weights) {
-            if (currSum + num > mid) { // ✅ fixed
+            if (currSum + num > mid) {
                 d++;
                 currSum = num;
             } else {
