@@ -22,7 +22,7 @@ class Solution {
                 a.add(arr[b]);
             }
         
-         Collections.sort(a);
+         
         return a;
     }
 }
