@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0575-distribute-candies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0999-available-captures-for-rook/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
 | [0575-distribute-candies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0575-distribute-candies/) | Easy |
+| [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0859-buddy-strings](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0859-buddy-strings/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Sorting
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Linked List
@@ -107,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0190-reverse-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
