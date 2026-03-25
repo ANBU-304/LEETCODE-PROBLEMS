@@ -1,29 +1,24 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        int a=0;
-        int b=0;
-       int sum=0;
-       int n=nums.length;
-       Arrays.sort(nums);
-      for(int i=1;i<nums.length;i++)
-      {
-        if(nums[i-1]==nums[i])
-        {
-            a=nums[i-1];
-            break;
+        int n = nums.length;
+
+        long sum = 0, sqSum = 0;
+        for (int num : nums) {
+            sum += num;
+            sqSum += (long) num * num;
         }
-      }
 
-      for(int i=0;i<nums.length;i++ )
-      {
-        sum+=nums[i];
-      }
-      sum-=a;
-    
-      int totalSum=((n*(n+1))/2);
-      b = totalSum-sum;
-     
-      return new int[]{a,Math.abs(b)};
+        long expectedSum = (long) n * (n + 1) / 2;
+        long expectedSqSum = (long) n * (n + 1) * (2 * n + 1) / 6;
 
+        long diff = sum - expectedSum;              // x - y
+        long sqDiff = sqSum - expectedSqSum;        // x^2 - y^2
+
+        long sumXY = sqDiff / diff;                 // x + y
+
+        int x = (int) ((diff + sumXY) / 2);         // duplicate
+        int y = (int) (sumXY - x);                  // missing
+
+        return new int[]{x, y};
     }
 }
