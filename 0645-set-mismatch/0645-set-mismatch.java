@@ -1,24 +1,35 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
+        int xor = 0;
         int n = nums.length;
 
-        long sum = 0, sqSum = 0;
+        // Step 1: XOR all elements and numbers 1..n
+        for (int num : nums) xor ^= num;
+        for (int i = 1; i <= n; i++) xor ^= i;
+
+        // Step 2: Get rightmost set bit
+        int setBit = xor & -xor;
+
+        int x = 0, y = 0;
+
+        // Step 3: Divide into two groups
         for (int num : nums) {
-            sum += num;
-            sqSum += (long) num * num;
+            if ((num & setBit) != 0) x ^= num;
+            else y ^= num;
         }
 
-        long expectedSum = (long) n * (n + 1) / 2;
-        long expectedSqSum = (long) n * (n + 1) * (2 * n + 1) / 6;
+        for (int i = 1; i <= n; i++) {
+            if ((i & setBit) != 0) x ^= i;
+            else y ^= i;
+        }
 
-        long diff = sum - expectedSum;              // x - y
-        long sqDiff = sqSum - expectedSqSum;        // x^2 - y^2
+        // Step 4: Determine duplicate and missing
+        for (int num : nums) {
+            if (num == x) {
+                return new int[]{x, y}; // x = duplicate
+            }
+        }
 
-        long sumXY = sqDiff / diff;                 // x + y
-
-        int x = (int) ((diff + sumXY) / 2);         // duplicate
-        int y = (int) (sumXY - x);                  // missing
-
-        return new int[]{x, y};
+        return new int[]{y, x}; // y = duplicate
     }
 }
