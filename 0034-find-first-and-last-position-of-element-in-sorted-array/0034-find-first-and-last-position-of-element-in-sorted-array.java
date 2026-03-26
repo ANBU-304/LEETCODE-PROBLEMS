@@ -6,19 +6,14 @@ class Solution {
         {
             if(nums[i]==target)
             {
+                if(a==-1)
                   a=i;
-                  break;
+
+                  b=i;
             }
           
         }
-        for(int i=nums.length-1;i>=0;i--)
-        {
-            if(nums[i]==target)
-            {
-                b=i;
-                break;
-            }
-        }
+        
 
         return new int[]{a,b};
     }
