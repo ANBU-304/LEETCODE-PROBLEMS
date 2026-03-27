@@ -174,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1095-find-in-mountain-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1095-find-in-mountain-array/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1667-fix-names-in-a-table](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1667-fix-names-in-a-table/) | Easy |
 <!---LeetCode Topics End-->
