@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
 | [0709-to-lower-case](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0709-to-lower-case/) | Easy |
 | [0859-buddy-strings](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0859-buddy-strings/) | Easy |
