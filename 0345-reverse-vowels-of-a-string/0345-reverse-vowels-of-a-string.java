@@ -21,7 +21,7 @@ class Solution {
                 right--;
             }
             
-            // swap vowels
+          
             char temp = arr[left];
             arr[left] = arr[right];
             arr[right] = temp;
