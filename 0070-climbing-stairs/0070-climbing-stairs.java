@@ -2,8 +2,8 @@ class Solution {
     public int climbStairs(int n) {
         if (n <= 2) return n;
 
-        int prev1 = 2; // f(2)
-        int prev2 = 1; // f(1)
+        int prev1 = 2;
+        int prev2 = 1;
         int cur = 0;
 
         for (int i = 3; i <= n; i++) {
