@@ -1,33 +1,20 @@
 class Solution {
     public int[] numberOfPairs(int[] nums) {
-       Arrays.sort(nums);
-       int count=0;
-       int res=0;
-       int j=0;
+        int[] count = new int[101];
+        int pairs = 0;
+        int leftover = 0;
 
-       if(nums.length==1)
-       return new int[]{0,1};
-
-       for(int i=1;i<nums.length;i++)
-       {
-        if(nums[j]==nums[i])
-        {
-          count++;
-          i++;
-          j++;
+        for (int num : nums) {
+            count[num]++;
         }
-        else
-        {
-            res++;
+
+        for (int num : count) {
+
+            pairs += num / 2;
+            leftover += num % 2;
         }
-        j++;
-       
 
-       
-       }
-      
+        return new int[] { pairs, leftover };
 
-
-       return new int[]{count,nums.length-count*2};
     }
 }
