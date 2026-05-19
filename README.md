@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3683-earliest-time-to-finish-one-task](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
