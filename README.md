@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0136-single-number/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
