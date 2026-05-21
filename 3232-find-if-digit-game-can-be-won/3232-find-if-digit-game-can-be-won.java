@@ -13,9 +13,6 @@ class Solution {
             }
         }
 
-        if(asum==bsum)
-        return false;
-
-        return true;
+        return asum!=bsum;
     }
 }
