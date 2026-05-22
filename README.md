@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0595-big-countries](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0595-big-countries/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1667-fix-names-in-a-table/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
