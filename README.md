@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1539-kth-missing-positive-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2256-minimum-average-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2256-minimum-average-difference/) | Medium |
