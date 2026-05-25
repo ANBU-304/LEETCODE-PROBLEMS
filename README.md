@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1550-three-consecutive-odds](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2256-minimum-average-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2256-minimum-average-difference/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Bit Manipulation
