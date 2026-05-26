@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
+| [2595-number-of-even-and-odd-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
