@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
