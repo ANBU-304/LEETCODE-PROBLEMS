@@ -3,7 +3,7 @@ class Solution {
        
 
         Arrays.sort(cost);
-       int sum=0;
+        int sum=0;
     
         for(int i=cost.length-1;i>=0;i--)
         {
@@ -11,9 +11,6 @@ class Solution {
                 {
                     sum+=cost[i];
                 }
-    
-             
-            
         }
 
         return sum;
