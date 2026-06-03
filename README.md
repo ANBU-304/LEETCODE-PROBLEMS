@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3477-fruits-into-baskets-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,4 +273,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 <!---LeetCode Topics End-->
