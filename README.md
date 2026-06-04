@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0504-base-7](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0504-base-7/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [2235-add-two-integers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
