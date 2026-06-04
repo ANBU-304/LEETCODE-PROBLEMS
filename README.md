@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,4 +282,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 <!---LeetCode Topics End-->
