@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-available-captures-for-rook](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
