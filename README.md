@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0595-big-countries/) | Easy |
+| [0607-sales-person](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0607-sales-person/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1890-the-latest-login-in-2020/) | Easy |
