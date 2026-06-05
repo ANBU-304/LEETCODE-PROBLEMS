@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0455-assign-cookies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0575-distribute-candies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0455-assign-cookies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
+| [0455-assign-cookies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0011-container-with-most-water/) | Medium |
+| [0455-assign-cookies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
