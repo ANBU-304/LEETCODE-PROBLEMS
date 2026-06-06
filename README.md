@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
 | [0504-base-7](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0504-base-7/) | Easy |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -311,4 +313,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0706-design-hashmap/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
