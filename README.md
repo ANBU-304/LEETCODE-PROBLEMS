@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2256-minimum-average-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2256-minimum-average-difference/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2256-minimum-average-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2256-minimum-average-difference/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
