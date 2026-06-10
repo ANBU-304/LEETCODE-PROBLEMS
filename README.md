@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0706-design-hashmap](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0706-design-hashmap/) | Easy |
 | [0859-buddy-strings](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0859-buddy-strings/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0709-to-lower-case/) | Easy |
 | [0859-buddy-strings](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0859-buddy-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
