@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3683-earliest-time-to-finish-one-task](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
