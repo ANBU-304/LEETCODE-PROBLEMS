@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0190-reverse-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0190-reverse-bits/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
@@ -287,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -298,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -351,4 +357,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0844-backspace-string-compare](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
