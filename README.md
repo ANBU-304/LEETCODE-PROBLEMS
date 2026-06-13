@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
@@ -365,4 +367,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
