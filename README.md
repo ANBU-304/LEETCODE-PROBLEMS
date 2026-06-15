@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0011-container-with-most-water/) | Medium |
+| [0125-valid-palindrome](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
