@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0011-container-with-most-water/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0125-valid-palindrome/) | Easy |
@@ -383,4 +385,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
