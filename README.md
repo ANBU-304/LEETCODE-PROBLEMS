@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Prefix Sum
