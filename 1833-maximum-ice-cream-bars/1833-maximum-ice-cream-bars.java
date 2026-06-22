@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<costs.length;i++)
         {
             
-            if(coins>0 && costs[i]<=coins)
+            if(costs[i]<=coins)
             {
                 count++;
                coins = coins- costs[i];
