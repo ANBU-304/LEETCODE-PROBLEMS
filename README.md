@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
