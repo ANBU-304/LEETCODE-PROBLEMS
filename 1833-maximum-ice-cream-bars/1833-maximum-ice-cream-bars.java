@@ -8,7 +8,7 @@ class Solution {
             if(costs[i]<=coins)
             {
                 count++;
-               coins = coins- costs[i];
+               coins -= costs[i];
             }else
             {
                 break;
