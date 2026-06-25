@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0190-reverse-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0190-reverse-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3945-digit-frequency-score](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3945-digit-frequency-score/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -288,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2256-minimum-average-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2256-minimum-average-difference/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,4 +413,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
