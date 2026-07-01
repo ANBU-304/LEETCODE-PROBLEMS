@@ -1,27 +1,22 @@
 class Solution {
     public int pivotIndex(int[] nums) {
-       
-int n = nums.length;
-        for(int i=0;i<n;i++)
-        {
-            int start = 0;
-            int end = 0;
-            int k= 0;
-       int m=n-1;
-            while(k<i)
-            {
-                start +=nums[k];
-                k++;
-            }
-            while(m>i)
-            {
-                end +=nums[m];
-                m--;
-            }
-
-            if(start == end)
-            return i;
+        int start = 0;
+        int n = nums.length;
+        int end = 0;
+        int total=0;
+        for(int num:nums){
+            total+=num;
         }
-     return -1; 
+        for (int i = 0; i < n; i++) {
+
+            
+            start += nums[i];
+
+            end =total-start+nums[i];
+
+            if (start == end)
+                return i;
+        }
+        return -1;
     }
 }
