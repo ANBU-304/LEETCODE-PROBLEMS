@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0706-design-hashmap/) | Easy |
+| [0724-find-pivot-index](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2256-minimum-average-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2256-minimum-average-difference/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2574-left-and-right-sum-differences/) | Easy |
