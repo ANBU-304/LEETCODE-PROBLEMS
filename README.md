@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
