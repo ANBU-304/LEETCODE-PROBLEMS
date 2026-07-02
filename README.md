@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
