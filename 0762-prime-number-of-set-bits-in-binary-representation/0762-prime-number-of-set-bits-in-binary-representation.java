@@ -1,26 +1,22 @@
-class Solution {
-    private boolean isPrime(int n)
+class Solution 
+{
+    public int countPrimeSetBits(int left, int right) 
     {
-        if(n<=1)
-        return false;
-
-        for(int i=2;i*i<=n;i++)
-        {
-            if(n%i==0)
-            return false;
-        }
-
-        return true;
-    }
-    public int countPrimeSetBits(int left, int right) {
         int count = 0;
-        for(int i=left;i<=right;i++)
+        for (int i = left; i <= right; i++) 
         {
-            int bit = Integer.bitCount(i);
+            int bits = Integer.bitCount(i);
 
-            if(isPrime(bit))
-            count++;
+            if (isPrime(bits)) 
+            {
+                count++;
+            }
         }
         return count;
+    }
+
+    private boolean isPrime(int n) {
+        return n == 2 || n == 3 || n == 5 || n == 7 || n == 11 
+            || n == 13 || n == 17 || n == 19 || n == 23 || n == 29 || n == 31;
     }
 }
