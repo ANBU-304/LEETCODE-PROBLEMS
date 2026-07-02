@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0504-base-7](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0504-base-7/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
