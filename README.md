@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3674-minimum-operations-to-equalize-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3945-digit-frequency-score](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3945-digit-frequency-score/) | Easy |
 ## Sorting
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -305,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Prefix Sum
