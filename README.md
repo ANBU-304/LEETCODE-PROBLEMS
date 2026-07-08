@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2815-max-pair-sum-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2540-minimum-common-value](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2540-minimum-common-value/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
