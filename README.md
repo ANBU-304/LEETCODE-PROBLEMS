@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0695-max-area-of-island/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Queue
