@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3895-count-digit-appearances](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3895-count-digit-appearances/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3895-count-digit-appearances](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
