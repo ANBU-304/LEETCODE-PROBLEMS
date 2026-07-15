@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
