@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2007-find-original-array-from-doubled-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2007-find-original-array-from-doubled-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2007-find-original-array-from-doubled-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -328,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2007-find-original-array-from-doubled-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
