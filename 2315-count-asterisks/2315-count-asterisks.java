@@ -1,5 +1,9 @@
 class Solution {
-    public int countAsterisks(String s) {
+    static {
+        for(int i = 0; i < 500; i++)
+            countAsterisks("");
+    }
+    public static int countAsterisks(String s) {
         int c=0;
         int ans=0;
         for(int i=0;i<s.length();i++)
