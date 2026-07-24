@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1184-distance-between-bus-stops](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1184-distance-between-bus-stops/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0706-design-hashmap/) | Easy |
 | [0859-buddy-strings](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0859-buddy-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
