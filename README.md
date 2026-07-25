@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Linked List
