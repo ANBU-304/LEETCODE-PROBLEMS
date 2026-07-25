@@ -1,16 +1,9 @@
 class Solution {
     public int maxProduct(int n) {
-        int mul=1;
-        int i=0;
-        ArrayList<Integer> a = new ArrayList<>();
-        while(n>0)
-        {
-            a.add(n%10);
-            n/=10;
-            i++;
-        }
-        Collections.sort(a);
+        char[] a = Integer.toString(n).toCharArray();
+        int i = a.length;
+        Arrays.sort(a);
 
-        return a.get(i-1)*a.get(i-2);
+        return (a[i-1]-'0')* (a[i-2]-'0');
     }
 }
