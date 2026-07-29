@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0575-distribute-candies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0575-distribute-candies/) | Easy |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0504-base-7](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0504-base-7/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0989-add-to-array-form-of-integer/) | Easy |
