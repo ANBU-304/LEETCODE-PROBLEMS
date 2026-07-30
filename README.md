@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2315-count-asterisks](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2315-count-asterisks/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2788-split-strings-by-separator/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
