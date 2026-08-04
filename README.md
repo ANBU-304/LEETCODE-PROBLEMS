@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
