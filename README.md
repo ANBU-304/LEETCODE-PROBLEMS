@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3683-earliest-time-to-finish-one-task](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3731-find-missing-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3945-digit-frequency-score](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3945-digit-frequency-score/) | Easy |
 ## Sorting
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3731-find-missing-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
