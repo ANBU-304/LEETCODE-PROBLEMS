@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1929-concatenation-of-array/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-available-captures-for-rook](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1929-concatenation-of-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
