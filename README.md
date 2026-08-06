@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3895-count-digit-appearances](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3895-count-digit-appearances/) | Medium |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3945-digit-frequency-score](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3945-digit-frequency-score/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
