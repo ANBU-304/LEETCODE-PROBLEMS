@@ -6,40 +6,43 @@ class Solution {
         // }
 
        
-            int f[] = new int[101];
-            for(int i=0;i<nums.length;i++)
-            {
-                f[nums[i]]++;
-            }
-            int max =0;
-            for(int i=1;i<=nums.length;i++)
-            {
-                max = Math.max(f[i],max);
-            }
+            // int f[] = new int[101];
+            // for(int i=0;i<nums.length;i++)
+            // {
+            //     f[nums[i]]++;
+            // }
+            // int max =0;
+            // for(int i=1;i<=nums.length;i++)
+            // {
+            //     max = Math.max(f[i],max);
+            // }
 
-            if(max<3)
-            {
-                return -1;
-            }
-        
-        int min=Integer.MAX_VALUE;
-        for(int i=0;i<nums.length;i++)
+            // if(max<3)
+            // {
+            //     return -1;
+            // }
+        int n = nums.length;
+        int min=n+1;
+        for(int i=0;i<n-2;i++)
         {
-         for(int j=i+1;j<nums.length;j++)
+         for(int j=i+1;j<n-1;j++)
          {
-            for(int k=j+1;k<nums.length;k++)
+            if (nums[i] != nums[j]) {
+                    continue;
+                }
+            for(int k=j+1;k<n;k++)
             {
-                int d = Integer.MAX_VALUE;
-                if(nums[i]==nums[j] && nums[j]==nums[k])
+                if(nums[j]==nums[k])
                 {
-                    d = Math.abs(i-j) + Math.abs(j-k) + Math.abs(k-i); 
+                   min = Math.min(min, k - i);
+                   break;
                 }
 
-                min = Math.min(min,d);
+                
             }
          }   
         }
 
-        return min;
+        return min==n+1 ? -1 : min*2;
     }
 }
