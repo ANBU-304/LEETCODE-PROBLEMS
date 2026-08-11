@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2235-add-two-integers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2235-add-two-integers/) | Easy |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Greedy
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
