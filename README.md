@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2540-minimum-common-value](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2540-minimum-common-value/) | Easy |
+| [2716-minimize-string-length](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2716-minimize-string-length/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2284-sender-with-largest-word-count](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2315-count-asterisks](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2315-count-asterisks/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
+| [2716-minimize-string-length](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2716-minimize-string-length/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2788-split-strings-by-separator/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3019-number-of-changing-keys/) | Easy |
