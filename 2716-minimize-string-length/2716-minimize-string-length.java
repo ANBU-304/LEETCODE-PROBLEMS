@@ -1,12 +1,22 @@
 class Solution {
     public int minimizedStringLength(String s) {
-        HashSet<Character> set = new HashSet<>();
+        boolean f[] = new boolean[26];
 
         for(int i=0;i<s.length();i++)
         {
-           set.add(s.charAt(i));
+            f[s.charAt(i)-'a'] = true;
         }
 
-        return set.size();
+        int count=0;
+         for(int i=0;i<26;i++)
+        {
+            if(f[i] )
+            {
+                count++;
+            }
+        }
+
+        return count;
+
     }
 }
