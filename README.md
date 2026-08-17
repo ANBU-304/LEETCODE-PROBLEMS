@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3643-flip-square-submatrix-vertically](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3643-flip-square-submatrix-vertically](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0695-max-area-of-island/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0999-available-captures-for-rook/) | Easy |
+| [3643-flip-square-submatrix-vertically](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
