@@ -1,19 +1,13 @@
 class Solution {
+
     public int[][] reverseSubmatrix(int[][] grid, int x, int y, int k) {
-        int top = x;
-        int bottom = x + k - 1;
-
-        // Swap rows from outer towards the center within the submatrix column range [y, y + k - 1]
-        while (top < bottom) {
-            for (int col = y; col < y + k; col++) {
-                int temp = grid[top][col];
-                grid[top][col] = grid[bottom][col];
-                grid[bottom][col] = temp;
+        for (int i0 = x, i1 = x + k - 1; i0 < i1; i0++, i1--) {
+            for (int j = y; j < y + k; j++) {
+                int temp = grid[i0][j];
+                grid[i0][j] = grid[i1][j];
+                grid[i1][j] = temp;
             }
-            top++;
-            bottom--;
         }
-
         return grid;
     }
 }
