@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
+| [0322-coin-change](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0414-third-maximum-number/) | Easy |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0322-coin-change](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -541,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 | [0695-max-area-of-island](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0695-max-area-of-island/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -564,4 +567,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2748-number-of-beautiful-pairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
