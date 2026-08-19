@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0455-assign-cookies/) | Easy |
+| [0518-coin-change-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0518-coin-change-ii/) | Medium |
 | [0561-array-partition](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0561-array-partition/) | Easy |
 | [0575-distribute-candies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -571,8 +573,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
