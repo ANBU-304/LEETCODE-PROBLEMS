@@ -5,7 +5,7 @@ class Solution {
 
         for(int num:nums)
         {
-            if(num%3==0 && num%2==0)
+            if(num%6==0)
             {
                 sum+=num;
                 c++;
