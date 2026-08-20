@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2284-sender-with-largest-word-count](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2540-minimum-common-value](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-square-sum-triples](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2235-add-two-integers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2235-add-two-integers/) | Easy |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
