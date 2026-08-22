@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0504-base-7/) | Easy |
 | [0567-permutation-in-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0709-to-lower-case/) | Easy |
+| [0796-rotate-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [0859-buddy-strings](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0859-buddy-strings/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0796-rotate-string/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
