@@ -11,9 +11,12 @@ class Solution {
                 {
                     if(nums[j]+nums[i]==0)
                     return nums[j];
-                    
+
                     j--;
                 }
+            }else
+            {
+                break;
             }
         }
 
