@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2284-sender-with-largest-word-count](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2540-minimum-common-value](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2540-minimum-common-value](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2284-sender-with-largest-word-count](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2540-minimum-common-value](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2540-minimum-common-value/) | Easy |
 | [2716-minimize-string-length](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2716-minimize-string-length/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2748-number-of-beautiful-pairs/) | Easy |
@@ -286,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
