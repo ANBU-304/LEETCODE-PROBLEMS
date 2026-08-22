@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0709-to-lower-case/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [0859-buddy-strings](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0859-buddy-strings/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1668-maximum-repeating-substring/) | Easy |
@@ -534,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -593,4 +595,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0518-coin-change-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
