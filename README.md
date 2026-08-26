@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3477-fruits-into-baskets-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Matrix
