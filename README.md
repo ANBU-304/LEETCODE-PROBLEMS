@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0278-first-bad-version/) | Easy |
