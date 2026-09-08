@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3870-count-commas-in-range](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3945-digit-frequency-score/) | Easy |
