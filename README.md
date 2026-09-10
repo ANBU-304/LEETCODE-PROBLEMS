@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0706-design-hashmap/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0724-find-pivot-index](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0706-design-hashmap](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0706-design-hashmap/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0859-buddy-strings](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0859-buddy-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0720-longest-word-in-dictionary](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -335,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0504-base-7/) | Easy |
 | [0567-permutation-in-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0709-to-lower-case/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0796-rotate-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
 | [0859-buddy-strings](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0859-buddy-strings/) | Easy |
@@ -622,4 +626,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1143-longest-common-subsequence/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0720-longest-word-in-dictionary/) | Medium |
 <!---LeetCode Topics End-->
