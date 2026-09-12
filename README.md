@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2284-sender-with-largest-word-count](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2540-minimum-common-value](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2540-minimum-common-value/) | Easy |
 | [2716-minimize-string-length](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2716-minimize-string-length/) | Easy |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2315-count-asterisks](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2315-count-asterisks/) | Easy |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2716-minimize-string-length](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2716-minimize-string-length/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2788-split-strings-by-separator/) | Easy |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2284-sender-with-largest-word-count](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Backtracking
