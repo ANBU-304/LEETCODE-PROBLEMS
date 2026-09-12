@@ -26,7 +26,7 @@ public class Solution {
                 if (isPalidrom(a)) {
                     if (len > max) {
                         max = len;
-                        ans = "";
+                       // ans = "";
                         ans = a;
                     }
 
