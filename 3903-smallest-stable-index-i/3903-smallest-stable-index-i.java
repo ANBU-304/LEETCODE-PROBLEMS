@@ -5,7 +5,9 @@ class Solution {
      
         for(int j=i;j<nums.length;j++)
         {
-            res = Math.min(nums[j],res);
+            
+            if(nums[j] < res)
+                res = nums[j];
         }
         return res;
     }
