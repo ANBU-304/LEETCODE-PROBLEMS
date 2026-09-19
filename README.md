@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3895-count-digit-appearances](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3895-count-digit-appearances/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [4024-nearest-available-drone](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/4024-nearest-available-drone/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -555,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [4024-nearest-available-drone](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/4024-nearest-available-drone/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
