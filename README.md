@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1550-three-consecutive-odds](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1539-kth-missing-positive-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2540-minimum-common-value](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -440,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0724-find-pivot-index/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2256-minimum-average-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2256-minimum-average-difference/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -455,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
