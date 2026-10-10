@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0049-group-anagrams/) | Medium |
@@ -573,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0844-backspace-string-compare/) | Easy |
@@ -640,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
