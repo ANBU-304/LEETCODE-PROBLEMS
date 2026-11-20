@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0392-is-subsequence/) | Easy |
 | [0504-base-7](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0504-base-7/) | Easy |
+| [0520-detect-capital](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0709-to-lower-case/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0720-longest-word-in-dictionary/) | Medium |
