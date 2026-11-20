@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2284-sender-with-largest-word-count](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2315-count-asterisks](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2315-count-asterisks/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
+| [2490-circular-sentence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2490-circular-sentence/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2716-minimize-string-length](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2716-minimize-string-length/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2788-split-strings-by-separator/) | Easy |
