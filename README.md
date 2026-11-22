@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2047-number-of-valid-words-in-a-sentence/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2284-sender-with-largest-word-count/) | Medium |
