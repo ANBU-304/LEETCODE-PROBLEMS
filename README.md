@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-find-in-mountain-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1184-distance-between-bus-stops](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1323-maximum-69-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1323-maximum-69-number/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2235-add-two-integers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2235-add-two-integers/) | Easy |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0724-find-pivot-index/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2256-minimum-average-difference](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2256-minimum-average-difference/) | Medium |
@@ -578,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0706-design-hashmap/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -668,4 +672,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
