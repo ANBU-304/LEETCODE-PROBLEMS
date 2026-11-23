@@ -1,6 +1,6 @@
 class Solution {
     public String capitalizeTitle(String title) {
-        StringBuffer ans = new StringBuffer();
+        StringBuilder ans = new StringBuilder();
         String words[] = title.split(" ");
         //ans.append(words[0].charAt(0).toUpperCase());
 
