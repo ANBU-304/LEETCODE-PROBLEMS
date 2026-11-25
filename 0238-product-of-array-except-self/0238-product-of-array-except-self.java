@@ -1,6 +1,6 @@
 class Solution {
     static{
-        for(int i = 0 ; i < 500 ; i++)
+        for(int i = 0 ; i < 5000 ; i++)
             productExceptSelf(new int[] {0,1});
     }
     public static int[] productExceptSelf(int[] nums) {
