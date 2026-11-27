@@ -7,11 +7,12 @@ class Solution {
         int i = 0; 
         int j = 0; 
 
-        while (i < sArr.length && j < tArr.length) {
-            if (sArr[i] == tArr[j]) {
-                i++; 
-            }
-            j++; 
+        while(i<sArr.length && j<tArr.length)
+        {
+            if(sArr[i]==tArr[j])
+            i++;
+
+            j++;
         }
 
       
