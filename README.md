@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2315-count-asterisks](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2315-count-asterisks/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2490-circular-sentence](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2490-circular-sentence/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2716-minimize-string-length](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2716-minimize-string-length/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2788-split-strings-by-separator/) | Easy |
@@ -519,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ANBU-304/LEETCODE-PROBLEMS/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Backtracking
